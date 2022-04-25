@@ -1,0 +1,27 @@
+.All {
+  width: 300px;
+  height: 290px;
+  border: 1px black solid;
+  margin: 0 auto;
+}
+.image {
+  position: relative;
+  width: 300px;
+  height: 230px;
+  border: 1px black solid;
+}
+.text {
+  width: 300px;
+  height: 55px;
+  border: 1px black solid;
+  color: white;
+  background-color: gray;
+}
+.date {
+  position: absolute;
+  
+  border: 1px black solid;
+  top: 220px;
+  left: 10px;
+  left: 600px;
+}
